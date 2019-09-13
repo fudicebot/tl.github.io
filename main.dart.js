@@ -36910,7 +36910,7 @@ if(u.e!=null)u.Lq()},
 $S:0}
 F.Bm.prototype={
 K:function(a){var u=X.S7(null,C.l)
-return new S.ov(new S.q2(null),P.bb(["select",new F.Bn(),"board",new F.Bo()],P.i,{func:1,ret:N.av,args:[N.bT]}),"Flutter Demo",u,null)}}
+return new S.ov(new S.q2(null),P.bb(["select",new F.Bn(),"board",new F.Bo()],P.i,{func:1,ret:N.av,args:[N.bT]}),"TragedyLopper",u,null)}}
 F.Bn.prototype={
 $1:function(a){return new E.im(null)},
 $S:140}
@@ -36919,7 +36919,7 @@ $1:function(a){return new E.il(null)},
 $S:141}
 E.il.prototype={
 aD:function(){var u=P.i,t=P.n,s=[P.j]
-return new E.GU(P.r(u,t),P.r(u,t),H.b([],s),H.b([],s),H.b(["\u5973\u5b50\u5b66\u751f","\u7537\u5b50\u5b66\u751f","\u59d4\u5458\u957f","\u5927\u5c0f\u59d0","\u5deb\u5973","\u5165\u9662\u60a3\u8005","\u533b\u751f","\u62a4\u58eb","\u4e0a\u73ed\u65cf","\u5076\u50cf","\u60c5\u62a5\u5c4b","\u5f02\u4e16\u754c\u4eba","\u5211\u4e8b","\u5b66\u8005","\u624b\u5148","\u95ee\u9898\u4eba\u7269","\u795e\u683c","\u9274\u8bc6\u5b98","\u8bb0\u8005","\u5e7b\u60f3","\u5927\u7269","\u8f6c\u6821\u751f","\u5c0f\u5973\u5b69","\u519b\u4eba","\u9ed1\u732b"],[u]),C.n)}}
+return new E.GU(P.r(u,t),P.r(u,t),H.b([],s),H.b([],s),H.b(["\u5973\u5b50\u5b66\u751f","\u7537\u5b50\u5b66\u751f","\u59d4\u5458\u957f","\u5927\u5c0f\u59d0","\u5deb\u5973","\u5165\u9662\u60a3\u8005","\u533b\u751f","\u62a4\u58eb","\u4e0a\u73ed\u65cf","\u5076\u50cf","\u60c5\u62a5\u5c4b","\u5f02\u4e16\u754c\u4eba","\u5211\u4e8b","\u5b66\u8005","\u624b\u5148","\u95ee\u9898\u4eba\u7269","\u795e\u683c","\u9274\u8bc6\u5b98","\u8bb0\u8005","\u5e7b\u60f3","\u5927\u7269","AI","\u6559\u5e08","\u8f6c\u6821\u751f","\u5c0f\u5973\u5b69","\u519b\u4eba","\u9ed1\u732b"],[u]),C.n)}}
 E.GU.prototype={
 K:function(b0){var u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8=this,a9=null
 if(a8.z===0){u=F.b4(a8.c,!1).a
@@ -36988,7 +36988,7 @@ a3=a8.r
 a4=new P.aj(20,20)
 a5=new P.aj(20,20)
 a6=H.b([new T.d4(C.C,a9,a9,r,a9),q,p,o,n,m,t,l,k,j,i,h,d,c,b,a,a0,T.cs(a9,M.b0(C.C,T.dY(H.b([N.ck(T.nc(new K.aK(a4,a4,a4,a4),M.b0(a9,new T.dj(C.i2,L.e0("SAVE",a9),a9),C.a1,a9,a9,a9,a9,a9,a9)),new E.H3(a8),new V.a_(0,0,0,0)),N.ck(T.nc(new K.aK(a5,a5,a5,a5),M.b0(a9,new T.dj(C.i2,L.e0("LOAD",a9),a9),C.a1,a9,a9,a9,a9,a9,a9)),new E.H4(a8),new V.a_(0,0,0,0))],u),C.Q,C.N,C.T),a9,a9,a9,a9,a9,a9,a2*591/1075),a9,a9,(a1-a2*3630/1076)/2+a2*0,a9,(a3-a2*2)/2+a2*0.112,a9)],u)
-for(u=J.ah(f),t=a8.dx,a7=0;a7<25;++a7)if(u.v(f,a7))a6.push(a8.LJ(t[a7]))
+for(u=J.ah(f),t=a8.dx,a7=0;a7<27;++a7)if(u.v(f,a7))a6.push(a8.LJ(t[a7]))
 a6.push(a8.dV("writerusingName1"))
 a6.push(a8.dV("writerusingName2"))
 a6.push(a8.dV("writerusingName3"))
@@ -37200,7 +37200,7 @@ $C:"$0",
 $R:0,
 $S:0}
 E.im.prototype={
-aD:function(){return new E.Hg(H.b(["\u5973\u5b50\u5b66\u751f","\u7537\u5b50\u5b66\u751f","\u59d4\u5458\u957f","\u5927\u5c0f\u59d0","\u5deb\u5973","\u5165\u9662\u60a3\u8005","\u533b\u751f","\u62a4\u58eb","\u4e0a\u73ed\u65cf","\u5076\u50cf","\u60c5\u62a5\u5c4b","\u5f02\u4e16\u754c\u4eba","\u5211\u4e8b","\u5b66\u8005","\u624b\u5148","\u95ee\u9898\u4eba\u7269","\u795e\u683c","\u9274\u8bc6\u5b98","\u8bb0\u8005","\u5e7b\u60f3","\u5927\u7269","\u8f6c\u6821\u751f","\u5c0f\u5973\u5b69","\u519b\u4eba","\u9ed1\u732b"],[P.i]),H.b([],[P.j]),C.n)}}
+aD:function(){return new E.Hg(H.b(["\u5973\u5b50\u5b66\u751f","\u7537\u5b50\u5b66\u751f","\u59d4\u5458\u957f","\u5927\u5c0f\u59d0","\u5deb\u5973","\u5165\u9662\u60a3\u8005","\u533b\u751f","\u62a4\u58eb","\u4e0a\u73ed\u65cf","\u5076\u50cf","\u60c5\u62a5\u5c4b","\u5f02\u4e16\u754c\u4eba","\u5211\u4e8b","\u5b66\u8005","\u624b\u5148","\u95ee\u9898\u4eba\u7269","\u795e\u683c","\u9274\u8bc6\u5b98","\u8bb0\u8005","\u5e7b\u60f3","\u5927\u7269","AI","\u6559\u5e08","\u8f6c\u6821\u751f","\u5c0f\u5973\u5b69","\u519b\u4eba","\u9ed1\u732b"],[P.i]),H.b([],[P.j]),C.n)}}
 E.Hg.prototype={
 K:function(a){var u,t,s,r=this,q=null,p=L.e0("\u9009\u62e9",q),o=[N.av]
 o=H.b([N.ck(T.dY(H.b([L.o4(r.f?C.nn:C.no,q,q),L.e0(" \u5267\u672c\u5bb6EX\u5361",A.e2(q,q,q,q,q,q,q,q,q,q,q,20,q,q,q,q,!0,q,q,q,q,q,q))],o),C.Q,C.N,C.T),new E.Hk(r),q),N.ck(T.dY(H.b([L.e0("  \u5f00\u59cb ",A.e2(q,q,q,q,q,q,q,q,q,q,q,20,q,q,q,q,!0,q,q,q,q,q,q)),L.o4(C.nk,q,q)],o),C.Q,C.N,C.T),new E.Hl(r),q)],o)
@@ -37209,10 +37209,10 @@ t=P.bb([null,0],D.fC,P.j)
 s=u.length
 return M.Po(new E.mM(p,o,new P.O(1/0,56),q),q,new T.dj(C.n2,new B.yP(new B.G2(7,10,10,0.7241379310344828),new G.FX(!0,!0,!0,u,t),q,C.m,!1,q,!0,C.ky,!1,q,s,C.S,q),q))},
 Cw:function(){var u,t=H.b([],[N.av])
-for(u=0;u<25;++u)t.push(this.Cv(u))
+for(u=0;u<27;++u)t.push(this.Cv(u))
 return t},
 Cv:function(a){var u,t,s,r,q=this,p=null,o=2684354560
-if(a<25){u=q.d[a]
+if(a<27){u=q.d[a]
 t=C.b.v(q.e,a)
 u=M.b0(p,U.cN("assets/images/characters/"+u+".png",C.aL,p,p,p),new P.B(o),p,p,p,p,p,p)
 s=F.b4(q.c,!1).a
